@@ -32,8 +32,4 @@ Este projeto foi originalmente desenvolvido por **juu.dev**. Esta conta (`rip-pk
 ### Pré-requisitos
 * Windows 10 ou 11
 * Python 3.10 ou superior
-
-### Instalação
-1. Clone este repositório:
-   ```bash
-   git clone [https://github.com/rip-pky/NOME_DO_TEU_REPOSITORIO.git](https://github.com/rip-pky/NOME_DO_TEU_REPOSITORIO.git)
+)
